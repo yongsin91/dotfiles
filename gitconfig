@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yongsin91@hotmail.com
+	name = yongsin tan yongsin91@hotmail.com
